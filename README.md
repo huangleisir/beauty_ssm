@@ -11,7 +11,7 @@
 - [Druid（数据源配置 sql防注入 sql性能监控)](http://wosyingjun.iteye.com/blog/2306139)
 - 统一的异常处理
 - JSP JSTL JavaScript
-- Sping Shiro权限控制（待完善）
+- Spring Shiro权限控制（待完善）
 
 ###**架构图：**
 ![](http://i.imgur.com/vc6iu0X.png)
